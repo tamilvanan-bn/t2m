@@ -2,7 +2,7 @@ Convert the script into a CLI command called `t2m` on **Windows**
 
 ---
 
-### ✅ 1. **Turn the script into an executable CLI**
+### 1. **Turn the script into an executable CLI**
 
 #### Step 1: Save your script
 Save your Python script as `t2m.py` in a known location, e.g., `C:\Scripts\t2m.py`.
@@ -15,11 +15,11 @@ Create a new file called `t2m.bat` in the same folder with the following content
 python C:\Scripts\t2m.py %*
 ```
 
-> ✅ Replace `C:\Scripts\t2m.py` with the full path where your script is saved.
+> Replace `C:\Scripts\t2m.py` with the full path where your script is saved.
 
 ---
 
-### ✅ 2. **Add the script folder to your PATH**
+### 2. **Add the script folder to your PATH**
 
 1. Press `Win + R`, type `sysdm.cpl`, and press Enter.
 2. Go to the **Advanced** tab → click **Environment Variables**.
