@@ -1,3 +1,5 @@
+### Convert torrent files into magnet link
+
 Convert the script into a CLI command called `t2m` on **Windows**
 
 ---
